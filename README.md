@@ -1,6 +1,6 @@
 # kaggle BBC News Project  
 
-This project examines the [Kaggle BBC News Classfication](https://www.kaggle.com/c/learn-ai-bbc) Challenge, specifically with a focus on the performance on non-negative matrix factorization in prediction.  
+This project examines the **[Kaggle BBC News Classfication](https://www.kaggle.com/c/learn-ai-bbc)** Challenge, specifically with a focus on the performance on non-negative matrix factorization in prediction.  
 
 Repository Contents:  
 -  html of jupyter noteboook - can be viewed directly **[here](https://htmlpreview.github.io/?https://github.com/miniwheat/kaggle-BBC-News/blob/main/Assignment%204%20-%20part%201%20v4.html)**
